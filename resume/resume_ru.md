@@ -1,4 +1,4 @@
-## Никита Александрович Зенкин<img src="photo.jpg" width="290rem" align="left"/><div align="right"><a href="Никита Александрович Зенкин.pdf">.pdf</a></div>
+## Никита Александрович Зенкин<img src="photo.jpg" width="245rem" align="left"/><a href="Никита Александрович Зенкин.pdf">.pdf</a>
 
 #### Специализация
 Тестирование ПО (Software QA Engineer)
@@ -8,21 +8,23 @@ Email: fianitnz@gmail.com  WgatsApp\Telegram: +7 926 292-39-26 Skype: fianitnz
 
 Репозиторий Git: [https://github.com/fianitnz](https://github.com/fianitnz)
 
-#### Навыки
-Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Selenium, WebDriver, KVM, QEMU, Docker(Basic), CSV, JSON, API, REST, SOAP, SoapUI(Basic), HTML, CSS, XML, English(A1 Elementary)
+### Навыки
+Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Selenium, WebDriver, KVM, QEMU, Docker(Basic), CSV, JSON, API, REST, SOAP, SoapUI(Basic), Wireshark, HTML, CSS, XML, English(A1 Elementary)
 
-#### Опыт
+### Опыт
 
 Есть Git, с кодом автоматизации тестов, и примерами тест кейсов для Ajenti2, это веб панель администратора сервера. (Ссылка на git в сопроводительном или по запросу)
 
 
 Использовал Selenium WebDriver, с Python. JavaScript.
 
-В проекте использовал библиотеки:
+#### **В проекте использовал библиотеки:**
 
-основные: selenium.webdriver, pytest, requests, pixelmatch-py, multiprocessing
+**основные:**
+- `selenium.webdriver`, `pytest`, `requests`, `pixelmatch-py`, `multiprocessing`
 
-вспомогательные: PIL.Image, pathlib.Path, io.BytesIO, pytest_check.check для замены assert без прерывания выполнения тестовой функции.
+**вспомогательные:**
+- `PIL.Image`, `pathlib.Path`, `io.BytesIO`, `pytest_check.check`
 
 Разделил тестируемую страницу на логические секции, заголовок, контент, меню. В которые включил элементы, такие как поля, кнопки, ссылки. Привязав их через локаторы скомпонованные так же в логические секции страницы.
 
