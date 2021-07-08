@@ -1,4 +1,4 @@
-## Никита Александрович Зенкин<img src="photo.jpg" width="290rem" align="left"/><p align="right"><a href="Никита Александрович Зенкин.pdf">.pdf</a></p>
+## Никита Александрович Зенкин<img src="photo.jpg" width="290rem" align="left"/><div align="right"><a href="Никита Александрович Зенкин.pdf">.pdf</a></div>
 
 #### Специализация
 Тестирование ПО (Software QA Engineer)
