@@ -9,23 +9,23 @@ Email: fianitnz@gmail.com  WgatsApp\Telegram: +7 926 292-39-26 Skype: fianitnz
 Репозиторий Git: [https://github.com/fianitnz](https://github.com/fianitnz)
 
 ### Навыки
-Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Selenium, WebDriver, KVM, QEMU, Docker(Basic), CSV, JSON, API, REST, SOAP, SoapUI(Basic), Wireshark, HTML, CSS, XML, English(A1 Elementary)
+Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Wireshark, Selenium, WebDriver, KVM, QEMU, Docker(Basic), CSV, JSON, API, REST, SOAP, SoapUI(Basic), HTML, CSS, XML, SQL(SoloLearn, sql-ex.ru=6), ORM, English(A1 Elementary)
 
 ### Опыт
 
-Есть Git, с кодом автоматизации тестов, и примерами тест кейсов для Ajenti2, это веб панель администратора сервера. (Ссылка на git в сопроводительном или по запросу)
+Создал учебный проект автоматизации тестирования веб панели администратора сервера [Ajenti2](https://github.com/ajenti/ajenti)
+<br>Доступен по адресу: [https://github.com/fianitnz/ajenti2-automation-of-web-interface-testing](https://github.com/fianitnz/ajenti2-automation-of-web-interface-testing)
+<br>Содержит ***Тест план, Тест кейсы, Найденные проблемы***
 
+#### **В проекте использовал такие инструменты как:**
 
-Использовал Selenium WebDriver, с Python. JavaScript.
+>**основные:**
+>- `selenium.webdriver`, `pytest`, `requests`, `pixelmatch-py`, `multiprocessing`
+>
+>**вспомогательные:**
+>- `PIL.Image`, `pathlib.Path`, `io.BytesIO`, `pytest_check.check`
 
-#### **В проекте использовал библиотеки:**
-
-**основные:**
-- `selenium.webdriver`, `pytest`, `requests`, `pixelmatch-py`, `multiprocessing`
-
-**вспомогательные:**
-- `PIL.Image`, `pathlib.Path`, `io.BytesIO`, `pytest_check.check`
-
+##### Текстовое описание проекта:
 Разделил тестируемую страницу на логические секции, заголовок, контент, меню. В которые включил элементы, такие как поля, кнопки, ссылки. Привязав их через локаторы скомпонованные так же в логические секции страницы.
 
 В качестве локаторов использовал в основном XPath. Имена тегов. И CSS локаторы в JavaScript обертках.
