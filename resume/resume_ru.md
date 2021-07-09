@@ -9,7 +9,7 @@ Email: fianitnz@gmail.com  WgatsApp\Telegram: +7 926 292-39-26 Skype: fianitnz
 Репозиторий Git: [https://github.com/fianitnz](https://github.com/fianitnz)
 
 ### Навыки
-Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Wireshark, Selenium, WebDriver, KVM, QEMU, Docker(Basic), CSV, JSON, API, REST, SOAP, SoapUI(Basic), HTML, CSS, XML, SQL(SoloLearn, sql-ex.ru=6), ORM, English(A1 Elementary)
+Linux, Windows, Bash, Python, Java(basic), Gradle(basic), Git, Issue tracker, Wireshark, Selenium, WebDriver, KVM, QEMU, Docker(basic), CSV, JSON, API, REST, SOAP, SoapUI(Basic), HTML, CSS, XML, SQL(SoloLearn, sql-ex.ru=6), ORM, English(A1 Elementary)
 
 ### Опыт
 
@@ -17,7 +17,7 @@ Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Wireshark, Seleni
 <br>Доступен по адресу: [https://github.com/fianitnz/ajenti2-automation-of-web-interface-testing](https://github.com/fianitnz/ajenti2-automation-of-web-interface-testing)
 <br>Содержит ***Тест план, Тест кейсы, Найденные проблемы***
 
-#### **В проекте использовал такие инструменты как:**
+#### В проекте использовал такие инструменты как:
 
 >**основные:**
 >- `selenium.webdriver`, `pytest`, `requests`, `pixelmatch-py`, `multiprocessing`
@@ -39,6 +39,17 @@ Linux, Windows, Bash, Python, Java(Basic), Git, Issue tracker, Wireshark, Seleni
 Использовал pixelmatch-py для сравнения изображений с эталоном при скриншот тестах.
 В помощь к скриншот тестам через JS отключаю анимацию путем добавления CSS правил.
 
-Реализовал тестирование логина через API REST при помощи библиотеки requests, в процессе познакомился в работе с ПО SoapUI и протоколом SOAP, попробовал Postman.
+Реализовал тестирование логина через API REST при помощи библиотеки requests, в процессе познакомился в работе с ПО SoapUI и протоколом SOAP, попробовал Postman. Для контроля передаваемых\получаемых данных использовал Wireshark.
+
+#### В качестве тестового задания написал на Java несколько запрососв к API Yandex Speller:
+<br>Доступен по адрессу:[https://github.com/fianitnz/test-automation-on-java](https://github.com/fianitnz/test-automation-on-java)
+##### Использовал библиоткеи:
+>- `JUnit`, `Unirest`, `RestAssured`, `Gson`, `json`
+
+В процессе познакомился с системой сборки Gradle
 
 #### Обо мне
+
+За компьютером около 20 лет. На свой первый компьютер заработал в 2002г. Первой ОС была Windows 98, после XP c 2007г использую Linux как основную операционную систему. Windows на втором компьютере держу для САПР.<br>
+Повторял проекты на Arduino с небольшими правками в коде на C, мини-принтер c Bluetooth "телеграф", USB ключ симулирующий ввод с клавиатуры для ввода\хранения паролей основанный на проекте Digispark 'attiny85'.<br>
+С C++ познакомился в 2004 по книге "для чайников". По фану изучал Python для себя. Писал всякие вспомогательные скрипты, bash обертки над библиотеками, переписывал их на Python. Например была обертка над библиотекой гугл транслейта, для перевода выделенного текста в любом месте системы по горячим клавишам, как в одну так и в другую сторону в том числе с озвучиванием средствами библиотеки и кешированим озвучивания своими силами. Конвертер тегов для mp3 файлов.
