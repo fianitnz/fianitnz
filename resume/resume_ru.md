@@ -41,9 +41,9 @@ Linux, Windows, Bash, Python, Java(basic), Gradle(basic), Git, Issue tracker, Wi
 
 Реализовал тестирование логина через API REST при помощи библиотеки requests, в процессе познакомился в работе с ПО SoapUI и протоколом SOAP, попробовал Postman. Для контроля передаваемых\получаемых данных использовал Wireshark.
 
-#### В качестве тестового задания написал на Java несколько запрососв к API Yandex Speller:
-Доступен по адрессу:[https://github.com/fianitnz/test-automation-on-java](https://github.com/fianitnz/test-automation-on-java)
-##### Использовал библиоткеи:
+#### В качестве тестового задания написал на Java несколько запросов к API Yandex Speller:
+Доступен по адресу:[https://github.com/fianitnz/test-automation-on-java](https://github.com/fianitnz/test-automation-on-java)
+##### Использовал библиотеки:
 >- `JUnit`, `Unirest`, `RestAssured`, `Gson`, `json`
 
 В процессе познакомился с системой сборки Gradle
