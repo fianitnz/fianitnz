@@ -10,7 +10,7 @@ Email: fianitnz@gmail.com  WgatsApp\Telegram: +7 926 292-39-26 Skype: fianitnz
 <br>
 <br>
 ### Навыки
-Linux, Windows, Bash, Python, Java(basic), Gradle(basic), Git, Issue tracker, Wireshark, Selenium, WebDriver, KVM, QEMU, Docker(basic), CSV, JSON, API, REST, SOAP, SoapUI(basic), HTML, CSS, XML, SQL(soloLearn, sql-ex.ru=6), ORM, English(A1 Elementary)
+Linux, Windows, Bash, Python, Java(basic), Gradle(basic), Git, Issue tracker, Wireshark, Selenium, WebDriver, KVM, QEMU, Docker(basic), CSV, JSON, API, REST, SOAP, SoapUI(basic), HTML, CSS, DevTools, XML, SQL(soloLearn, sql-ex.ru=6), ORM, English(A1 Elementary)
 
 ### Опыт
 
