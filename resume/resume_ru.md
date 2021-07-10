@@ -4,7 +4,7 @@
 Тестирование ПО (Software QA Engineer)
 
 #### Контакты
-Email: fianitnz@gmail.com  WgatsApp\Telegram: +7 926 292-39-26 Skype: fianitnz
+Email: fianitnz@gmail.com  WhatsApp\Telegram: +7 926 292-39-26 Skype: fianitnz
 
 Репозиторий Git: [https://github.com/fianitnz](https://github.com/fianitnz)
 <br>
