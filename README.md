@@ -1,5 +1,4 @@
- - Hi! I’m `Mikita A Zenkin`.
- - How to reach me Email: fianitnz@gmail.com
+ - Hi! I’m `Mikita A Zenkin`
 
 <!---
 fianitnz/fianitnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
